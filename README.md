@@ -1,4 +1,16 @@
 ## Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Yuristry&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&line_height=30&count_private=true&include_all_commits=true" />
+
+- 😄 life-long learning
+- ⚡ Focus on:
+  - Java
+  - Rust
+  - Golang
+  - Nodejs
+  - BigData
+  - Backend Architecture
+  - Other technologies of interest
+
 
 <!--
 **Yuristry/Yuristry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
